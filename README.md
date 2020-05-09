@@ -8,7 +8,7 @@ This repository contains script which were used to build and train the SDN2GO mo
 # Scripts
 Validation.py - This script is used to build and train the model and evaluate the performance of the model.
 Weight_nodom_model.py - This script is used to build and train the model without domain features.
-my_Utils.py - This script contains some utility functions
+my_Utils.py - This script contains some utility functions.
 
 # Data
 
