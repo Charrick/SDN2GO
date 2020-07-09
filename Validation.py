@@ -87,7 +87,7 @@ class Dataload(Dataset):
 
         # ppi_file = 'PPI_data/selected_uniprot_protein_scores.csv'
         # ppi_file = 'PPI_data/selected_uniprot_protein_links.csv'
-        ppi_file = 'PPI_data/selected_9606_protein_scores.csv'
+        ppi_file = 'data/PPI_data/selected_9606_protein_scores.csv'
         print(ppi_file)
         with open(ppi_file, 'r') as f:
             num = 1
